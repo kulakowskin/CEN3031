@@ -73,7 +73,7 @@ To accomplish this you will:
 -
 ### Tasks
 Take a look at the source code provided to you, and map out how the different files communicate with one another. You will notice there is a *factory*, a *controller*, and a *view* (provided by the index.html page). It is your responsibility to:
-
+       
 1. Complete the methods in the controller
 2. Implement the prompts in the HTML view to make the application functional
 
