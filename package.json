@@ -1,6 +1,5 @@
 {
-  "name": "UF-Directory-App",
-  "version": "1.0.0",
+  "name": "UFDirectoryApp",
   "scripts": {
     "start": "node server.js"
   },
